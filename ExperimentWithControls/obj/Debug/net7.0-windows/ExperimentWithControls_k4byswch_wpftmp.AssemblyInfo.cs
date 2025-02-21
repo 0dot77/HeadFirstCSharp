@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstConsoleApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ExperimentWithControls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e306679b4cbb6d2e94880b3d108d181f86cb89")]
-[assembly: System.Reflection.AssemblyProductAttribute("MyFirstConsoleApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MyFirstConsoleApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("ExperimentWithControls")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ExperimentWithControls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
 
